@@ -6,5 +6,5 @@
 * [World's most famous data visualization!](https://www.youtube.com/watch?v=oYVLxaxn3Dg)
 
 **Preview:**
-[](https://github.com/evil-in/Hans-Rosling-viz/blob/master/life_exp_vs_GDP_per_capita.png)
+![Life expectancy vs GDP per capita](https://github.com/evil-in/Hans-Rosling-viz/blob/master/life_exp_vs_GDP_per_capita.png)
 
