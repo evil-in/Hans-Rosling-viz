@@ -1,4 +1,4 @@
-## Recreating the late Hans Rosling's visualization in Python
+## Recreating the late Hans Rosling's visualization
 
 **Inspired by:** 
 
